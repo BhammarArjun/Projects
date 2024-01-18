@@ -1,2 +1,2 @@
-# Algorithms
-Here i will include all the codes for algorithms
+# Project discussion
+These are all projects i completed during my journey
